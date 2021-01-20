@@ -1,0 +1,10 @@
+{
+  "TOKEN": "1556863242:AAHy6rbcC9qXwF4LQWpcFk7CIf88eig-0jU",
+  "AUTH": {
+    "ENABLE": false,
+    "PASSWORD": "",
+    "USERS": []
+  },
+  "SPOTDL_DOWNLOADER": false,
+  "SPOTIFYDL_DOWNLOADER": true
+}
